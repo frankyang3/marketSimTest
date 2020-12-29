@@ -10,7 +10,6 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         playeranim = GetComponent<Animator>();
-        playeranim.Play
     }
 
     // Update is called once per frame
